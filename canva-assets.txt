@@ -1,0 +1,68 @@
+קישורי Canva — "כשהאדמה רועדת"
+================================
+כל הנכסים שנוצרו ב-Canva.
+לייצוא: פתח כל קישור → Share → Download → PNG
+
+לוגו
+----
+עריכה:  https://www.canva.com/d/_VOzuF8VO1nAzGG
+צפייה:  https://www.canva.com/d/pSDAdsESMl01445
+
+Style Guide
+-----------
+עריכה:  https://www.canva.com/d/hIM3TaNMUI4gjFu
+צפייה:  https://www.canva.com/d/KhW4LfLpjAZx5y6
+
+סצנה 1 — שביל הר לפני הסערה
+-----------------------------
+עריכה:  https://www.canva.com/d/wEB5HCJXSr_XHpm
+צפייה:  https://www.canva.com/d/bzRbHCo2BZWBzk9
+
+סצנה 2 — פנים הבקתה בסערה
+---------------------------
+עריכה:  https://www.canva.com/d/qdfB-NZSxW7aDw9
+צפייה:  https://www.canva.com/d/6FAvig3bN6qjNPD
+
+סצנה 3 — פינת המטבחון
+-----------------------
+עריכה:  https://www.canva.com/d/QbUcKEM2qKGPYnW
+צפייה:  https://www.canva.com/d/6WrZL8tqOiTd0PQ
+
+סצנה 4 — החלון המטושטש
+------------------------
+עריכה:  https://www.canva.com/d/tR4MO0daz8q50ve
+צפייה:  https://www.canva.com/d/Kmv9uV_5j5kV3CQ
+
+סצנה 5 — בוקר שאחרי
+---------------------
+עריכה:  https://www.canva.com/d/sh7eUB9nvX2xfyr
+צפייה:  https://www.canva.com/d/THjZL1XltXHe6-w
+
+
+סיכום כל הנכסים בפרויקט
+========================
+
+Canva (קובץ זה):
+  לוגו + Style Guide + 5 רקעי סצנות
+
+GitHub — תיקיית icons/:
+  icon-snow.png
+  icon-wind.png
+  icon-thermometer.png
+  icon-mug.png
+  icon-blanket.png
+  icon-lantern.png
+  icon-mountain.png
+  icon-cabin.png
+  icon-logo-badge.png  ← בתיקון אצל החבר
+
+GitHub — תיקיית characters/:
+  noam-sitting-corner.png
+  noam-standing-window.png
+  noam-sitting-table.png
+  maya-standing-supplies.png
+  maya-sitting-table.png
+  danny-standing-window.png
+  rachel-sitting-fire.png
+
+מדריך בנייה: rise360-build-guide.txt
